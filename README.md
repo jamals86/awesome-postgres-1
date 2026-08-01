@@ -128,7 +128,6 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 ### Extensions
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
 * [cyanaudit](http://pgxn.org/dist/cyanaudit/) - Cyan Audit provides in-database logging of all DML activity on a column-by-column basis.
-* [koldstore](https://github.com/kalamdb/koldstore) - PostgreSQL tiered-storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.
 * [pglogical](https://github.com/2ndQuadrant/pglogical) - Extension that provides logical streaming replication.
 * [pg\_partman](https://github.com/keithf4/pg_partman) - Partition management extension for PostgreSQL.
 * [pg\_paxos](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
@@ -141,6 +140,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [zomboDB](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.
 * [pgpyml](https://github.com/Minoro/pgpyml) - (WIP) Use machine learning models written in Python inside PostgreSQL.
 * [Transparent Data Encryption](https://www.cybertec-postgresql.com/en/products/postgresql-transparent-data-encryption/) - Transparent Data Encryption (TDE) is a CYBERTEC patch to PostgreSQL.
+* [koldstore](https://github.com/kalamdb/koldstore) - PostgreSQL tiered-storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.
 
 ### Migration Tools
 * [Babelfish](https://babelfishpg.org/) - With Babelfish, applications that currently running on SQL Server can now run directly on PostgreSQL with fewer code changes.
